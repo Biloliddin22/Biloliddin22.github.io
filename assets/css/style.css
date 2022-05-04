@@ -731,6 +731,7 @@ textarea.form-control {
 
 .grid h2{
     font-size: 20px;
+	text-decoration: underline;
 }
 
 .grid figure {
@@ -798,10 +799,12 @@ textarea.form-control {
 
 .hover_span1 {
 	display: none;
+	font-size: 15px;
 }
 
 .hover_span2 {
 	display: none;
+	font-size: 15px;
 }
 
 .grid figure h2,
