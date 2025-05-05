@@ -213,7 +213,9 @@
             	return false;
 			});*/
 
-		
+	$(function() {
+  $('#year').text(new Date().getFullYear());
+});	
 
 	});
 
